@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyShelf</string>
+    <string name="search">Search</string>
+    <string name="explore">Explore</string>
+    <string name="save_action">Save</string>
+    <string name="notes">Personal notes</string>
+    <string name="press_to_search">Press to search</string>
+    <string name="expand_button_notes">See more or less information about your notes.</string>
+</resources>
